@@ -27,7 +27,7 @@
 
 # Rodando
 
-1. Clone esse repositório `git clone https://github.com/witerbino/eurekalabs-challeng-frontend.git`.
+1. Clone esse repositório `git clone https://github.com/witerbino/eurekalabs-challenge-frontend.git`.
 2. Entre na pasta do projeto `cd eurekalabs-challenge-frontend`.
 3. Instale as dependências `npm install` ou `yarn`.
 4. Execute o projeto `npm start` ou `yarn start`.
