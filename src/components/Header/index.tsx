@@ -7,7 +7,6 @@ export function Header() {
     <S.Container>
       <S.Content>
         <img src={Logo} alt="Logo" />
-        {/* <h1>Eureka Cep</h1> */}
       </S.Content>
     </S.Container>
   )

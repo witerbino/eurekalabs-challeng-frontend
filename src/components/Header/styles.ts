@@ -1,16 +1,25 @@
-import styled from 'styled-components';
+import styled, { keyframes } from 'styled-components';
+
+const logoAnimation = keyframes`
+  from { 
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY(10px);
+  }
+`
 
 export const Container = styled.header`
   width: 100%;
   height: 150px;
-
-  background-color: var(--background); 
+  background: var(--background);
 `;
 
 export const Content = styled.section`
   width: 100%;
   height: 100%;
-  max-width: 900px; 
+  max-width: 800px; 
 
   margin: 0 auto;
 
@@ -22,5 +31,7 @@ export const Content = styled.section`
     height: 64px;
     margin-top: 12px;
     margin-right: 5px;
+
+    animation: ${logoAnimation} alternate infinite 1s ease-in-out;
   }
 `;
