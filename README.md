@@ -5,12 +5,12 @@
   </div>
   <br/>
   <br/>
-  <p>Projeto desenvolvido para o desafio da vaga de desenvolvedor NodeJS e ReactJS na [Eureka Labs]().</p>
+  <p>Projeto desenvolvido para o desafio da vaga de desenvolvedor NodeJS e ReactJS na <a href="https://eurekalabs.com.br/">Eureka Labs</a>.</p>
 
 <p>O objetivo do projeto era desenvolver uma tela aonde o usuário posso consultar dados de um endereço passando o número do <strong>CEP<strong></p>
 <br/>
 <br/>
-<img src="github/screenshot.png"/>
+<img src="github/screenshot.png" style="border-radius: 5px"/>
 <br/>
 <br/>
 </div>
@@ -21,12 +21,12 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
-- [React Icons]()
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 # Rodando
 
-1. Clone esse repositório `git clone https://github.com/witerbino/dtmoney.git`.
-2. Entre na pasta do projeto `cd dtmoney`.
+1. Clone esse repositório `git clone https://github.com/witerbino/eurekalabs-challeng-frontend.git`.
+2. Entre na pasta do projeto `cd eurekalabs-challeng-frontend`.
 3. Instale as dependências `npm install` ou `yarn`.
 4. Execute o projeto `npm start` ou `yarn start`.
 5. O projeto vai estar rodando no link `http://localhost:3000`.
