@@ -9,6 +9,10 @@
 
 <p>O objetivo do projeto era desenvolver uma tela aonde o usuário posso consultar dados de um endereço passando o número do <strong>CEP<strong></p>
 <br/>
+<br/>
+<img src="github/screenshot.png"/>
+<br/>
+<br/>
 </div>
 
 # Tecnologias
