@@ -3,6 +3,7 @@ import { createGlobalStyle } from 'styled-components';
 export const GlobalStyles = createGlobalStyle`
   :root {
     --background: #ebebeb;
+    --background-light: #f4f4f4;
     --primary-color: #ffca2c;
   }
 
@@ -11,11 +12,5 @@ export const GlobalStyles = createGlobalStyle`
     padding: 0;
     outline: none;
     box-sizing: border-box;
-  }
-
-  body {
-    width: 100%;
-    height: 100%;
-    font-size: 16px;
   }
 `;
